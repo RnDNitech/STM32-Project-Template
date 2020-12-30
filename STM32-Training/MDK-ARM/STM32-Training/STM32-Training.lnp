@@ -19,6 +19,8 @@
 "stm32-training\stm32f4xx_hal_cortex.o"
 "stm32-training\stm32f4xx_hal.o"
 "stm32-training\stm32f4xx_hal_exti.o"
+"stm32-training\stm32f4xx_hal_dac.o"
+"stm32-training\stm32f4xx_hal_dac_ex.o"
 "stm32-training\stm32f4xx_hal_tim.o"
 "stm32-training\stm32f4xx_hal_tim_ex.o"
 "stm32-training\system_stm32f4xx.o"

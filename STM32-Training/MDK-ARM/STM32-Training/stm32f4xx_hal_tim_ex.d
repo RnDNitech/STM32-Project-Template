@@ -24,6 +24,8 @@ stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h
+stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dac.h
+stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dac_ex.h
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
 stm32-training\stm32f4xx_hal_tim_ex.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
